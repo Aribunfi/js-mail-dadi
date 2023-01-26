@@ -5,7 +5,7 @@ const numbers = [1,2,3,4,5,6];
 const games = Math.floor(Math.random()*6) + 1;
 numbers.push(randomNumber);
 
-console.log(numbers);
+console.log('numbers');
 
 // sia per il giocatore sia per il computer.
 
