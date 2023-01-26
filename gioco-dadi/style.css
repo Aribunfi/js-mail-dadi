@@ -1,0 +1,23 @@
+.left-screen {
+    background-color: red;
+    width: 600px;
+    height: 1000px;
+    text-align: center;
+    line-height: 1000px;
+    vertical-align: middle;
+}
+
+.right-screen {
+    background-color: blue;
+    width: 600px;
+    height: 1000px;
+    text-align: center;
+    line-height: 1000px;
+    vertical-align: middle;
+    
+}
+
+body {
+    display: flex;
+}
+
